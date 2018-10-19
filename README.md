@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/unrealai.svg)](https://badge.fury.io/py/unrealai)
+
 # unrealai
 Image/Machine Learning Tool Interface
 
