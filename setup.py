@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
 	name='unrealai',
-	version='0.0.1',
+	version='0.0.2',
 	description='Say hello!',
 	py_modules=["helloworld"],
 	package_dir={'':'src'},
