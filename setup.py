@@ -14,7 +14,7 @@ setup(
 		"Programming Language :: Python :: 3",
 		"Programming Language :: Python :: 3.6",
 		"Programming Language :: Python :: 3.7",
-		"License :: OSI Approved :: GNU General Public License v3",
+		"License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)",
 		"Operating System :: OS Independent",
 		],
 		long_description=long_description,
