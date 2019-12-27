@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 
 setup(
 	name='unrealai',
-	version='0.0.4',
-	description='Added Pytest',
+	version='0.0.5',
+	description='Added Travis Integration and fixed build badge',
 	py_modules=["helloworld"],
 	package_dir={'':'src'},
 	classifiers=[
