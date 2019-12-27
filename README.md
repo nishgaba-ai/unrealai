@@ -1,5 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/nishgaba-ai/unrealai/master/logo/unrealai.png)
-# Unreal AI Technologies Pvt. Ltd., https://unrealai.xyz/
+# Unreal AI Technologies Pvt. Ltd.
 
 [![PyPI version](https://badge.fury.io/py/unrealai.svg)](https://badge.fury.io/py/unrealai)
 
@@ -7,9 +7,13 @@
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nishgaba-ai/unrealai/issues)
 
-# unrealai
-Advanced Utility Wrapper for Tensorflow
+# unrealai package
+This package intends to provide highly optimized implementations of tensorflow for deep learning model design.
+The functions are divided in several files with simple structures allowing for easy customizability.
+One of the main features is designing custom networks with simpler settings and exporting the model in saved model and frozen graph formats.
 
+## Currently Covered Versions
+	- Tensorflow 2.*
 
 
 # Installation
