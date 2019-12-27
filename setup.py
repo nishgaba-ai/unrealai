@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 
 setup(
 	name='unrealai',
-	version='0.0.3',
-	description='Updated piplock',
+	version='0.0.4',
+	description='Added Pytest',
 	py_modules=["helloworld"],
 	package_dir={'':'src'},
 	classifiers=[
