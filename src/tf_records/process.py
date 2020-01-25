@@ -46,6 +46,10 @@ def create_detection_pipeline( image_dir, annotations_path, labels_definition):
             image_dir (directory path): Directory path containing the images to be pipelined
             annotations_path (file_path):  File containing details about the annotations and labels for each corresponding image in image_dir, JSON Fromat File
             labels_definition (file path): File containing definition of total number of classes, JSON Format FILE
+
+        
+        Returns::
+            records (TF Records): TF Record to be used in detection model
     '''
 
 
@@ -64,6 +68,9 @@ def create_classification_pipeline( image_dir, labels_path, labels_definition):
             image_dir (directory path): Directory path containing the images to be pipelined
             labels_path (file_path):  File containing details about the class lables for each corresponding image in image_dir, JSON Fromat File
             labels_definition (file path): File containing definition of total number of classes, JSON Format FILE
+
+        Returns::
+            records (TF Records): TF Record to be used in classification model
 
     '''
 
